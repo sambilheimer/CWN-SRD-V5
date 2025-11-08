@@ -1,0 +1,20 @@
+@font-face {
+  font-family: "jet-brains";
+  src: url("/assets/webfonts/JetBrainsMono-Regular.woff2") format("woff2");
+}
+
+h2 {
+  color: #879a39;
+}
+
+h3 {
+  color: #d14d41;
+}
+
+p a:hover {
+  color: #d0a215;
+}
+
+nav a:hover {
+  color: #d0a215 !important;
+}
